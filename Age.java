@@ -16,7 +16,7 @@ public class Age {
 	}
 	else
 	{
-		System.out.println("your age is below ");
+		System.out.println("your age is below 18 years");
 		
 	}
 	
